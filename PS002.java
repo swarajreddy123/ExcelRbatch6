@@ -7,7 +7,7 @@ class SumOf2Digits {
 	}
 }
 
-public class Demo017 {
+public class PS002 {
     public static void main(String[] args) {
         SumOf2Digits obj = new SumOf2Digits();
 		int n = 78;
