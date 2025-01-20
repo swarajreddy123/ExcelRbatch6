@@ -1,4 +1,4 @@
-class greater
+class Demo005
  {
    public static void main (String[]args)
    {
