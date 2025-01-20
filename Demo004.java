@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class login {
+public class Demo004 {
 
     public static void main(String[] args) {
         String correctUsername = "Swaraj";
