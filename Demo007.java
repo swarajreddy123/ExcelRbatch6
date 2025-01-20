@@ -1,5 +1,5 @@
 
-class Employee {
+class Demo007 {
 
 	protected int id;
 	protected String firstName;
