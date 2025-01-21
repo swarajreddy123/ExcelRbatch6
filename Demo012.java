@@ -1,4 +1,3 @@
-package Core_Java;
  class CircleAreaDemo1 {
 	void Area() {
 		int r = 7;
