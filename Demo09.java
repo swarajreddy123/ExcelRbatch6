@@ -1,4 +1,4 @@
-public class demo09 {
+public class Demo09 {
     public static void acceptDetails(String customerName, String accountNumber, double balance) {
         System.out.println("Customer Name: " + customerName);
         System.out.println("Account Number: " + accountNumber);
